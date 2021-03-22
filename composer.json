@@ -1,0 +1,10 @@
+{
+    "name": "favicode/packagist-flag",
+    "authors": [
+        {
+            "name": "Borna Butkovic",
+            "email": "borna@favicode.net"
+        }
+    ],
+    "require": {}
+}
